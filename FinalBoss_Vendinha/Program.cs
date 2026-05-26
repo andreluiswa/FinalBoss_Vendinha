@@ -2,7 +2,7 @@ using System.Globalization;
 using FinalBoss_Vendinha.Data;
 using FinalBoss_Vendinha.Models;
 using FinalBoss_Vendinha.Services;
-
+ 
 var cultura = new CultureInfo("pt-BR");
 CultureInfo.DefaultThreadCurrentCulture = cultura;
 CultureInfo.DefaultThreadCurrentUICulture = cultura;
