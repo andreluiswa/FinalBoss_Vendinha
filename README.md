@@ -25,7 +25,7 @@ dotnet run --project .\FinalBoss_Vendinha\FinalBoss_Vendinha.csproj
 
 O banco SQLite `vendinha.db` sera criado automaticamente na pasta de saida da aplicacao.
 
-Ao cadastrar ou editar clientes, informe o CPF ja formatado, por exemplo: `587.125.945-60`.
+Ao cadastrar ou editar clientes, informe o CPF ja formatado, por exemplo: `000.000.000-00`.
 
 ## Banco de dados
 
